@@ -1,1 +1,5 @@
 /Users/admin/Documents/VisualStudio_Project/C-Essential_hw_4/C-Essential_hw_4/obj/x86/Debug/C-Essential_hw_4.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/VisualStudio_Project/C-Essential_hw_4/C-Essential_hw_4/bin/Debug/C-Essential_hw_4.exe
+/Users/admin/Documents/VisualStudio_Project/C-Essential_hw_4/C-Essential_hw_4/bin/Debug/C-Essential_hw_4.pdb
+/Users/admin/Documents/VisualStudio_Project/C-Essential_hw_4/C-Essential_hw_4/obj/x86/Debug/C-Essential_hw_4.exe
+/Users/admin/Documents/VisualStudio_Project/C-Essential_hw_4/C-Essential_hw_4/obj/x86/Debug/C-Essential_hw_4.pdb

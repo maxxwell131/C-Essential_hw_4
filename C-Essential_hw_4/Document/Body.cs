@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lessons_4
+namespace CEssential_hw_4
 {
     class Body : Part
     {

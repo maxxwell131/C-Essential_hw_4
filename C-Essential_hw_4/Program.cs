@@ -15,7 +15,17 @@ namespace CEssential_hw_4
         {
             Console.WriteLine("Hello World!");
             Title title = new Title();
+            title.Content = "It is Title";
 
+            Body body = new Body();
+            body.Content = "It is BODY";
+
+            Footer footer = new Footer();
+            footer.Content = "It is CONTENT";
+
+            title.Show();
+            body.Show();
+            footer.Show();
         }
     }
 }
