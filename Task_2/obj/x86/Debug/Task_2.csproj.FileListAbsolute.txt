@@ -1,0 +1,6 @@
+/Users/admin/Documents/VisualStudio_Project/C-Essential_hw_4/Task_2/bin/Debug/Task_2.exe
+/Users/admin/Documents/VisualStudio_Project/C-Essential_hw_4/Task_2/bin/Debug/Task_2.pdb
+/Users/admin/Documents/VisualStudio_Project/C-Essential_hw_4/Task_2/obj/x86/Debug/Task_2.csprojResolveAssemblyReference.cache
+/Users/admin/Documents/VisualStudio_Project/C-Essential_hw_4/Task_2/obj/x86/Debug/Task_2.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/VisualStudio_Project/C-Essential_hw_4/Task_2/obj/x86/Debug/Task_2.exe
+/Users/admin/Documents/VisualStudio_Project/C-Essential_hw_4/Task_2/obj/x86/Debug/Task_2.pdb

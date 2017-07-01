@@ -1,0 +1,5 @@
+/Users/admin/Documents/VisualStudio_Project/C-Essential_hw_4/Task_3/bin/Debug/Task_3.exe
+/Users/admin/Documents/VisualStudio_Project/C-Essential_hw_4/Task_3/bin/Debug/Task_3.pdb
+/Users/admin/Documents/VisualStudio_Project/C-Essential_hw_4/Task_3/obj/x86/Debug/Task_3.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/VisualStudio_Project/C-Essential_hw_4/Task_3/obj/x86/Debug/Task_3.exe
+/Users/admin/Documents/VisualStudio_Project/C-Essential_hw_4/Task_3/obj/x86/Debug/Task_3.pdb
